@@ -3,17 +3,17 @@
 	var index = 3;
 
 	var rawItems = [{
-		// id: 1,
+		id: 1,
 		title: 'item 1',
 		description:'There is some descriptions',
 		key: 'item1'
 	},{
-		// id: 2,
+		id: 2,
 		title: 'item 2',
 		description:'There is some descriptions',
 		key: 'item2'
 	},{
-		// id: 3,
+		id: 3,
 		title: 'item 3',
 		description:'There is some descriptions',
 		key: 'item3'
